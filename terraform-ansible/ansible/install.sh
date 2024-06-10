@@ -6,4 +6,4 @@ sleep 3;
 echo "ansible installed"
 
 echo "running playbook"
-ansible-playbook -u ubuntu /home/ubuntu/playbook.yaml
+ansible-playbook -u ubuntu /tmp/playbook.yaml
